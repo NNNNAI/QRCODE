@@ -1,0 +1,9 @@
+code_and_str_generate里面有三个文件
+qr.h里是一些头文件的引用以及宏和函数定义
+qrcode_function.cpp里面有三个函数
+     createqrcode是生成指定字符串的二维码
+     rand_str是生成长度指定的随机字符串
+  recognize_use_path只用用于测试，实际的在摄像拍摄流中识别二维码的在另外一个文件里面。
+
+
+函数的使用在cpp文件里面有注释。

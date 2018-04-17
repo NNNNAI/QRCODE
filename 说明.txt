@@ -1,0 +1,5 @@
+code_and_str_generate里是二维码生成与字符串随机生成的函数
+recognize是一个结合好的从摄像头读取到的视频识别二维码的程序。
+
+使用流程是按照两个网址安装好libqrencode，zbar。
+librencode是用于生成二维码，zbar是用于识别二维码。
